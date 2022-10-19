@@ -1,2 +1,2 @@
 # yourexa
-This is another GitHub pages site. (^_^)
+This is a GitHub project site. (^_^)
